@@ -4,8 +4,11 @@
 Group 6: Aniket Ajit Ingale, Zlata Izvalava
 
 PROJECT
+
 The Watch Your Speed Program (WYSP) uses devices called speed display signs or driver feedback signs which contain a radar device and an LED display. The radar measures the speeds of oncoming vehicles and the LED sign displays their speeds to the passing motorists, thereby reminding them to check their speeds and to obey speed limits. The City of Toronto’s permanent units are installed in Safety Zones.
+
 We used the data recorded by permanent driver feedback signs installed in School Safety Zones. The datasets are published by Transportation Services on the City of Toronto Open Data Portal.
+
 Data:
 1.	“School Safety Zone Watch Your Speed Program – Detailed Speed Counts” 
 An hourly aggregation of observed speeds for each location where a Watch Your Speed Program Sign was installed in 10 km/hr speed range increments.
