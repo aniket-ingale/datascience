@@ -19,9 +19,9 @@ We explored the data recorded by the driver feedback sign #230 (approximate addr
 Analysis of recorded data and use of the model can be helpful for understanding the situation with safety in this school safety zone and for planning measures to improve it.
 
 The project includes:
-•	Notebook 1 - Download, prepare and explore the data (scs3253_project_group6_notebook1.ipynb)
-•	Notebook 2 - Data transformation, model training and evaluation (scs3253_project_group6_notebook2.ipynb)
-•	Presentation (scs3253_project_group6_presentation.pdf)
+1. Notebook 1 - Download, prepare and explore the data (scs3253_project_group6_notebook1.ipynb)
+2. Notebook 2 - Data transformation, model training and evaluation (scs3253_project_group6_notebook2.ipynb)
+3. Presentation (scs3253_project_group6_presentation.pdf)
 
 The data will be downloaded, extracted and read into pandas DataFrames when you run the Notebook 1.
 
