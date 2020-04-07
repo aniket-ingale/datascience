@@ -13,12 +13,16 @@ https://open.toronto.ca/dataset/school-safety-zone-watch-your-speed-program-deta
 2.	 “School Safety Zone Watch Your Speed Program – Locations”
 The locations and operating parameters for each location where a permanent Watch Your Speed Program Sign was installed.
 https://open.toronto.ca/dataset/school-safety-zone-watch-your-speed-program-locations/
+
 We explored the data recorded by the driver feedback sign #230 (approximate address - 994 Jane Street, Toronto; southbound direction of travel; speed limit - 50 km/hr) and trained different regression models for predicting an hourly count of vehicles traveling at a speed in the “50 km/hr and higher” speed range for this location. The Polynomial Regression model (degree = 2) produced the best performance.
+
 Analysis of recorded data and use of the model can be helpful for understanding the situation with safety in this school safety zone and for planning measures to improve it.
+
 The project includes:
 •	Notebook 1 - Download, prepare and explore the data (scs3253_project_group6_notebook1.ipynb)
 •	Notebook 2 - Data transformation, model training and evaluation (scs3253_project_group6_notebook2.ipynb)
 •	Presentation (scs3253_project_group6_presentation.pdf)
+
 The data will be downloaded, extracted and read into pandas DataFrames when you run the Notebook 1.
 
 
